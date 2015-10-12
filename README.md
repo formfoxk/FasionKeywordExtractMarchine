@@ -9,7 +9,7 @@
 </br>
 
 ###*Uml Design*
-MVC 패턴으로 구현
+MVC 패턴으로 구현하였지만, 개념이 명확히 잡히지 않아 잘못된 Uml 설계
 </br>
 ![enter image description here](https://lh3.googleusercontent.com/-JfADhwC-q7Y/VhvIKfoKHhI/AAAAAAAAC0s/B6GRb6aqJZ0/s0/%25EA%25B7%25B8%25EB%25A6%25BC1.png "그림1.png")
 </br>
